@@ -1,0 +1,44 @@
+[[pages]]
+path = "00__Login.py"
+name = "Login"
+icon = "🔐"
+
+[[pages]]
+path = "pages/01__Projects.py"
+name = "Projects"
+icon = "📚​"
+
+[[pages]]
+path = "pages/02__Upload_Client_Documents.py"
+name = "Upload Documents"
+icon = "⬆️​"
+
+[[pages]]
+path = "pages/03__Edit_Client_Documents.py"
+name = "Edit Documents"
+icon = "🛠️​"
+
+[[pages]]
+path = "pages/04__Questionnaires.py"
+name = "Questionnaires"
+icon = "❔​"
+
+[[pages]]
+path = "pages/05__Reports.py"
+name = "Create Reports"
+icon = "📒"
+
+[[pages]]
+path = "pages/06__View_Reports.py"
+name = "View Reports"
+icon = "​📖​"
+
+[[pages]]
+path = "pages/07__View_PDF.py"
+name = "View_PDF"
+icon = "🔍​"
+
+[[pages]]
+path = "pages/08__Categories.py"
+name = "Categories"
+icon = "🏷️"
